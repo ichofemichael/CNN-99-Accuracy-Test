@@ -7,8 +7,8 @@ This project is inspired by the need to evaluate CNN models and achieve high acc
 # Requirements
 To run the script, you need the following dependencies:
 
-Python 3.x
-TensorFlow 2.x
-NumPy
-Matplotlib
+Python 3.x,
+TensorFlow 2.x,
+NumPy,
+Matplotlib or
 Scikit-learn
